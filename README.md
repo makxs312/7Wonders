@@ -1,5 +1,4 @@
 # 7Wonders
-Modern technologies of software development. 7Wonders project.
 
 ### Team members:
 - Ulyana Kozub
